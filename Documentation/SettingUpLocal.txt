@@ -1,0 +1,3 @@
+Setting up Development:
+Dynamo:
+-Follow steps in https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html
